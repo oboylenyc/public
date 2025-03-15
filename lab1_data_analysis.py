@@ -11,7 +11,7 @@ pattern = re.compile(
     r'^(?P<timestamp>[A-Za-z]{3}\s+\d{1,2}\s+\d{2}:\d{2}:\d{2}).*sshd\[\d+\]:\s+Invalid user\s+(?P<username>\S+)'
 )
 
-# read logs
+# read logs 
 with open(LOG_FILE, 'r') as f:
     for line in f:
         match = pattern.search(line)

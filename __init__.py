@@ -73,7 +73,7 @@ def create_app(test_config=None):
     except OSError:
         pass
 
-    # a simple page that says hello - for testing                                                                                                                                                        
+    # a simple page that says hello - for testing                                                                                                                                                         
     @app.route('/message')
     def message():
         return render_template('message.html')

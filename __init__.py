@@ -74,7 +74,7 @@ def create_app(test_config=None):
         pass
 
     # a simple page that says hello - for testing                                                                                                                                                         
-    @app.route('/message')
+    @app.route('/message') 
     def message():
         return render_template('message.html')
 

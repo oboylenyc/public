@@ -9,7 +9,7 @@ import sqlite3
 from flask import Flask, request, render_template_string
 
 app = Flask(__name__)
-app.logger.setLevel(logging.INFO)  # Set the logging level directly 
+app.logger.setLevel(logging.INFO)  # Set the logging level directly  
 
 DB_FILE = '/home/ec2-user/students.db'
 

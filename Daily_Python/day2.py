@@ -20,4 +20,4 @@ if uinput.is_integer():
     else:
         print("Odd")
 else:
-    print("Not an integer, cannot be even/odd")
+    print("Not an integer, cannot be even or odd")

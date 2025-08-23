@@ -1,0 +1,6 @@
+python: 3
+is: 3
+fun: 1
+powerful: 1
+and: 1
+everywhere: 1

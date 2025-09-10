@@ -24,4 +24,4 @@ Day 21: \[C] Extract Dates from Text
 Day 22: \[C] Implement Bubble Sort
 Day 23: \[C] Recursive Sum of Digits
 Day 24: Recursive Fibonacci Sequence
-Day 25: 
+Day 25: Recursive Binary Search

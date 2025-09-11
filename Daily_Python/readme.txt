@@ -25,4 +25,6 @@ Day 22: \[C] Implement Bubble Sort
 Day 23: \[C] Recursive Sum of Digits
 Day 24: Recursive Fibonacci Sequence
 Day 25: Recursive Binary Search
-Day 26: 
+Day 26: Stack Implementation with Lists
+day 27: Implement a Queue with Lists
+day 28: 

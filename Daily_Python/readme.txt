@@ -27,4 +27,5 @@ Day 24: Recursive Fibonacci Sequence
 Day 25: Recursive Binary Search
 Day 26: Stack Implementation with Lists
 day 27: Implement a Queue with Lists
-day 28: 
+day 28: Implement a Singly Linked List
+day 29: 

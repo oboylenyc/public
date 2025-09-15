@@ -28,4 +28,5 @@ Day 25: Recursive Binary Search
 Day 26: Stack Implementation with Lists
 day 27: Implement a Queue with Lists
 day 28: Implement a Singly Linked List
-day 29: 
+day 29: Reverse a Singly Linked List
+day 30:

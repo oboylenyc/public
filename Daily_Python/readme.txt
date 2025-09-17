@@ -30,4 +30,6 @@ day 27: Implement a Queue with Lists
 day 28: Implement a Singly Linked List
 day 29: Reverse a Singly Linked List
 day 30: Binary Tree Traversal (Inorder, Preorder, Postorder)
-day 31: 
+day 31: Level-Order (BFS) Traversal of a Binary Tree
+day 32: Comprehensions: Student Grade Summary
+day 33: 

@@ -32,4 +32,5 @@ day 29: Reverse a Singly Linked List
 day 30: Binary Tree Traversal (Inorder, Preorder, Postorder)
 day 31: Level-Order (BFS) Traversal of a Binary Tree
 day 32: Comprehensions: Student Grade Summary
-day 33: 
+day 33: Sliding Window Averages (Generators)
+day 34:

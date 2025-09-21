@@ -34,4 +34,5 @@ day 31: Level-Order (BFS) Traversal of a Binary Tree
 day 32: Comprehensions: Student Grade Summary
 day 33: Sliding Window Averages (Generators)
 day 34: Build a Simple Memoization Decorator
-day 35: 
+day 35: Parse GitHub Repos JSON and Report Top Stars
+day 36: 

@@ -35,4 +35,5 @@ day 32: Comprehensions: Student Grade Summary
 day 33: Sliding Window Averages (Generators)
 day 34: Build a Simple Memoization Decorator
 day 35: Parse GitHub Repos JSON and Report Top Stars
-day 36: 
+day 36: Average Runtime Timer
+day 37: 

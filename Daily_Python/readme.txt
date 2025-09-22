@@ -36,4 +36,5 @@ day 33: Sliding Window Averages (Generators)
 day 34: Build a Simple Memoization Decorator
 day 35: Parse GitHub Repos JSON and Report Top Stars
 day 36: Average Runtime Timer
-day 37: 
+day 37: Retry Decorator with Exponential Backoff
+day 38:
